@@ -101,8 +101,9 @@
 			children = (
 				8A966E26289C458B00842EF5 /* AppDelegate.swift */,
 				8A966E28289C458B00842EF5 /* SceneDelegate.swift */,
-				8A966E2A289C458B00842EF5 /* ViewController.swift */,
-				8A966E2C289C458B00842EF5 /* Main.storyboard */,
+				8A966E58289C466900842EF5 /* Model */,
+				8A966E57289C465E00842EF5 /* View */,
+				8A966E56289C465600842EF5 /* Controller */,
 				8A966E2F289C458B00842EF5 /* Assets.xcassets */,
 				8A966E31289C458B00842EF5 /* LaunchScreen.storyboard */,
 				8A966E34289C458B00842EF5 /* Info.plist */,
@@ -125,6 +126,29 @@
 				8A966E49289C458B00842EF5 /* ClimaUITestsLaunchTests.swift */,
 			);
 			path = ClimaUITests;
+			sourceTree = "<group>";
+		};
+		8A966E56289C465600842EF5 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				8A966E2A289C458B00842EF5 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		8A966E57289C465E00842EF5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8A966E2C289C458B00842EF5 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8A966E58289C466900842EF5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
