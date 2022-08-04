@@ -28,8 +28,6 @@ open the folder with Xcode
 start the application
 ```
 
-## Author
-
 ## Iury Vasconcelos Leitão - [GitHub](https://github.com/iury0393) / [Linkedin](https://www.linkedin.com/in/iury-vasconcelos-dev/) / [Email](mailto:iury0393@gmail.com)
 
 <p align="center">Develop by <a href="https://github.com/iury0393">Iury Vasconcelos</a></p>
