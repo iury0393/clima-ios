@@ -16,6 +16,7 @@
 		8A966E3E289C458B00842EF5 /* ClimaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A966E3D289C458B00842EF5 /* ClimaTests.swift */; };
 		8A966E48289C458B00842EF5 /* ClimaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A966E47289C458B00842EF5 /* ClimaUITests.swift */; };
 		8A966E4A289C458B00842EF5 /* ClimaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A966E49289C458B00842EF5 /* ClimaUITestsLaunchTests.swift */; };
+		8AD56894289EDA220013AE8D /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AD56893289EDA220013AE8D /* WeatherManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8A966E43289C458B00842EF5 /* ClimaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClimaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A966E47289C458B00842EF5 /* ClimaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimaUITests.swift; sourceTree = "<group>"; };
 		8A966E49289C458B00842EF5 /* ClimaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8AD56893289EDA220013AE8D /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 		8A966E58289C466900842EF5 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				8AD56893289EDA220013AE8D /* WeatherManager.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			files = (
 				8A10AB21289C4D5C00CF3F55 /* WeatherViewController.swift in Sources */,
 				8A966E27289C458B00842EF5 /* AppDelegate.swift in Sources */,
+				8AD56894289EDA220013AE8D /* WeatherManager.swift in Sources */,
 				8A966E29289C458B00842EF5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
