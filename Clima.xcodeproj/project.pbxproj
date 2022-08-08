@@ -38,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		8A10AB20289C4D5C00CF3F55 /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		8A7C374928A145D4008E1F4B /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = Model/MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8A966E23289C458B00842EF5 /* Clima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clima.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A966E26289C458B00842EF5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A966E28289C458B00842EF5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +102,7 @@
 		8A966E25289C458B00842EF5 /* Clima */ = {
 			isa = PBXGroup;
 			children = (
+				8A7C374928A145D4008E1F4B /* MyPlayground.playground */,
 				8A966E26289C458B00842EF5 /* AppDelegate.swift */,
 				8A966E28289C458B00842EF5 /* SceneDelegate.swift */,
 				8A966E58289C466900842EF5 /* Model */,
