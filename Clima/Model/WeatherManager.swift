@@ -32,6 +32,7 @@ struct WeatherManager {
                 }
                 if let safeData = data {
                     if let weather = parseJSON(safeData) {
+                        
                         delegate?.didUpdateWeather(self, weather: weather)
                     }
                 }
